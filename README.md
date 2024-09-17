@@ -1,4 +1,4 @@
-# Bypass Paywalls Clean for Chrome
+# Bypass Paywalls Clean for Chrome (Manifest V3) 
 
 Extension allows you to read articles from (supported) sites that implement a paywall.  
 You can also add a domain as custom site and try to bypass the paywall.  
